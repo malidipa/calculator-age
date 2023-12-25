@@ -1,0 +1,30 @@
+*{
+    color:black;
+}
+
+#button{
+    margin-right: 30px;
+    margin-top: 2opx;
+}
+div a{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+#maindiv{
+    background-color: blue;
+    margin:200px;
+    width:500px;
+    height: 300px;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px black;
+}
+p{
+    padding:10px;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-image:url(ass/waterfall.png.jpg);
+}
